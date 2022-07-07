@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "1d-time-features"
+version = "1.0.0"
+authors = [
+  { name="Rakshit Mittal", email="rakshitm@acm.org" },
+]
+description = "A package to efficiently extract simple time-domain features from one-dimensional signals"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache License Version 2",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/raks0009/1d-time-features"
+"Bug Tracker" = "https://github.com/raks0009/1d-time-features/issues"

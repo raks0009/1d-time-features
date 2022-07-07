@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/1d-time-features/__init__.py
+src/1d-time-features/example.py
+src/1d_time_features.egg-info/PKG-INFO
+src/1d_time_features.egg-info/SOURCES.txt
+src/1d_time_features.egg-info/dependency_links.txt
+src/1d_time_features.egg-info/top_level.txt
